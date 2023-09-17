@@ -108,7 +108,7 @@
                         </div>
                         <div class="col-md-4 col-xl-6">
                             <div class="tp-services-btn text-md-end wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
-                                <a class="tp-round-btn-sky tp-btn-hover alt-bg-merah" href="<?= base_url('jasa-website'); ?>">
+                                <a class="tp-round-btn-sky tp-btn-hover alt-bg-merah" href="<?= base_url('jasa-pembuatan-website'); ?>">
                                     LihatPricelist
                                 </a>
                             </div>
