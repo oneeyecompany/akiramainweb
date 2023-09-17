@@ -487,7 +487,7 @@
                             <div class="tp-portfolio-content-3">
                                 <h3><a>Sambel Koyo - UMKM</a></h3>
                                 <div class="tp-portfolio-buttons">
-                                    <a class="tp-portfolio-btn">Jasa Pembuatan Logo</a>
+                                    <a class="tp-portfolio-btn">Jasa Pembuatan Logos</a>
                                 </div>
                             </div>
                         </div>
